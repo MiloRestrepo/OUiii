@@ -46,4 +46,4 @@ true
 [Deployed app](https://ouiii-party.herokuapp.com/)
 
 ### URL of the GitHub repository:
-[Github code] (https://github.com/MiloRestrepo/OUiii)
+[Github code](https://github.com/MiloRestrepo/OUiii)
